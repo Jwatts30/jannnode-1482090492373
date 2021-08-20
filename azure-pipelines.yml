@@ -8,7 +8,7 @@ trigger:
 
 resources:
    repositories:
-     - repository: build_pipeline
+     - repository: lambdatest
        type: github
        endpoint: Jwatts30
        name: Jwatts30/lambdatest
