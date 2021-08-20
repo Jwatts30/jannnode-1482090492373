@@ -12,4 +12,7 @@ resources:
        type: github
        endpoint: Jwatts30
        name: Jwatts30/lambdatest
+
+extends:
+  template: start.yml@lambdatest
       
